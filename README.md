@@ -74,9 +74,9 @@ Ex:
   - Integració contínua (CI)
 
 ### Servidors d'integració continua
-**CI:** Integració contínua
+**CI:** Integració contínua  
 **CD:** Lliurament contínua
-  - Jenkins <img src="https://user-images.githubusercontent.com/74070913/106042383-449b4f00-60dd-11eb-90cc-175e48c98153.png" alt="Jenkins-Logo" width="50"/>
-  - Bamboo <img src="https://user-images.githubusercontent.com/74070913/106042578-85936380-60dd-11eb-8dfa-65a4cae63ede.png" alt="Bamboo-Logo" width="50"/>
-  - TravisCI <img src="https://user-images.githubusercontent.com/74070913/106042625-98a63380-60dd-11eb-9dfd-90e342ad93b9.png" alt="Jenkins-Logo" width="50"/>
-  - CircleCI <img src="https://user-images.githubusercontent.com/74070913/106042647-a22f9b80-60dd-11eb-8bdb-cb962067b723.png" alt="Jenkins-Logo" width="50"/>
+  - Jenkins  <img src="https://user-images.githubusercontent.com/74070913/106042383-449b4f00-60dd-11eb-90cc-175e48c98153.png" alt="Jenkins-Logo" width="50"/>
+  - Bamboo  <img src="https://user-images.githubusercontent.com/74070913/106042578-85936380-60dd-11eb-8dfa-65a4cae63ede.png" alt="Bamboo-Logo" width="50"/>
+  - TravisCI  <img src="https://user-images.githubusercontent.com/74070913/106042625-98a63380-60dd-11eb-9dfd-90e342ad93b9.png" alt="Jenkins-Logo" width="50"/>
+  - CircleCI  <img src="https://user-images.githubusercontent.com/74070913/106042647-a22f9b80-60dd-11eb-8bdb-cb962067b723.png" alt="Jenkins-Logo" width="50"/>
