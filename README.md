@@ -32,7 +32,7 @@ Conjunt de processos amb els quals es pretén provar el sistema o aplicació en 
         - Cobertura de codi
         - Prova de bucles
 
-<img src="https://user-images.githubusercontent.com/74070913/106040316-91315b00-60da-11eb-823c-1a12bd003dc7.png" alt="Caixa-blanca" width="500"/>
+<img src="https://user-images.githubusercontent.com/74070913/106040316-91315b00-60da-11eb-823c-1a12bd003dc7.png" alt="Caixa-blanca" width="300"/>
 
 ## Frameworks
 És una estructura de conceptes, pràctiques, biblioteques, etc ... que serveix de base per a organitzar i desenvolupar un programari.
