@@ -20,8 +20,7 @@ Conjunt de processos amb els quals es pretén provar el sistema o aplicació en 
     - Principals tècniques:
         - Particions d'equivalència
         - Valors límit  
-
-<img src="https://user-images.githubusercontent.com/74070913/106040110-431c5780-60da-11eb-914f-7e2ab12baf3c.png" alt="Caixa-negra" width="250"/>  
+        <img src="https://user-images.githubusercontent.com/74070913/106040110-431c5780-60da-11eb-914f-7e2ab12baf3c.png" alt="Caixa-negra" width="250"/>  
 
   - **Caixa blanca:** S'examina el codi font i la seva execució. Són proves estructurals.
     - S'examina el codi font i la seva execució.
@@ -31,8 +30,7 @@ Conjunt de processos amb els quals es pretén provar el sistema o aplicació en 
     - Principals tècniques:
         - Cobertura de codi
         - Prova de bucles
-
-<img src="https://user-images.githubusercontent.com/74070913/106040316-91315b00-60da-11eb-823c-1a12bd003dc7.png" alt="Caixa-blanca" width="250"/>
+        <img src="https://user-images.githubusercontent.com/74070913/106040316-91315b00-60da-11eb-823c-1a12bd003dc7.png" alt="Caixa-blanca" width="250"/>
 
 ### Tipus de proves
   - Funcionals: Avaluen el compliment dels requisits.
